@@ -27,5 +27,18 @@
     "eslint": "7.29.0",
     "eslint-config-next": "11.0.1",
     "typescript": "4.3.4"
-  }
+  },
+  "description": "This is a Next.js project with TypeScript, Mobx for easy State Management, Chakra UI to make beautiful UI easily and MongoDB(soon).\r ## https://learn-next-js-alpha.vercel.app/todos \r (on mobile use Chrome to open the site)",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Regzlkham/learn-next.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Regzlkham/learn-next/issues"
+  },
+  "homepage": "https://github.com/Regzlkham/learn-next#readme"
 }
